@@ -8,4 +8,4 @@ def soma(a, b):
 
 resultado = soma(178, 218)
 
-print(resultado)
+(resultado)
