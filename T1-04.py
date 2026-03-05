@@ -4,9 +4,9 @@ lt('cls')
 
 
 
-def soma(a, b):
+def divisão(a, b):
     return a / b
 
-resultado = soma(93, 4)
+resultado = divisão(93, 4)
 
-print(resultado)
+(resultado)
