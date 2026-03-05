@@ -6,4 +6,4 @@ def soma(a, b):
 
 resultado = soma(534, 12)
 
-print(resultado)
+(resultado)
