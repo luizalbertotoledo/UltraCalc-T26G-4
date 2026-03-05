@@ -3,8 +3,6 @@
 def multiplicacao(numero1, numero2):
     resultado = numero1 * numero2
     return resultado
-
-print(multiplicacao(5,2))
     
 
 
